@@ -1,2 +1,3 @@
 Bienvenue sur le github du GROUPE 15 composer de  POUTRAIN Louis 22114807 ZITOUNI Walid 22112549 DIATTA Sina MULHAUSER Hugo 22207270 ABOUD Ali 22201195
 Vous trouverez ici le code ainsi que la Base de Données avec et sans données.
+Pour éxecuter le code il vous faudra changer la basse données dans singleConnection, il faudra aussi ouvirire la methode main et changer la run Configuration pour ajouter la commande --module-path pathtoJavaFXlib --add-modules javafx.controls,javafx.fxml dans VM arguments.Pour vous connecter utiliser le les identifiant de la base de données fourni c'est à dire identifiant 1 et code 1234.
